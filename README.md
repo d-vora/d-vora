@@ -1,4 +1,6 @@
-### Hello, World! 👋
+### Hello World! 👋 🌱 :woman_technologist:
+
+<img align='left' src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" width="230">
 
 <!--
 **d-vora/d-vora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
